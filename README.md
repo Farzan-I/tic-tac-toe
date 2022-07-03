@@ -14,3 +14,6 @@
 ⠀⠀⠀⠛⠁⠈⠛⠀⠀⠸⠇⠀⠘⠿⢶⡶⠿⠃⠀⢿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 # React Tic Tac Toe Game
+
+## Introduction
+Learnt how to make noughts and crosses, also known as tic tac toe, using React.
